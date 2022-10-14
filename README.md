@@ -1,3 +1,3 @@
 # hello-world
 test for new repository 
-new edit change
+Im 19, a comp sci major, and im excited to be part of the computer science club!
